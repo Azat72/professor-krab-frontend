@@ -7,7 +7,7 @@ from PIL import Image
 
 st.set_page_config(page_title="Юридический консультант", layout="wide")
 
-API_URL = "https://professor-krab-backend.onrender.com/ask"
+API_URL = "https://professor-krab-backend.onrender.com"
 SOURCE_DOCS_DIR = "source_docs"
 LOGO_PATH = "logo_krab.png"
 
